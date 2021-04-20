@@ -1,0 +1,37 @@
+/**
+* @name "NightTokyo"
+* @version 2.1.2
+* @description "NightTokyo"
+* @author VlmNik#0779
+* @Source https://github.com/vlmnik/themes
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+@import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/RadialStatus/base.css');
+:root {
+--themeColor1: #fff700;
+--themeColor2: #0dc3e3;
+--customFont: 'Montserrat Alternates', sans-serif;
+--homeImage: url('https://i.imgur.com/IFGORtF.jpg');
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/6FwPXkM.jpg');
+--backgroundBlur: 5px;
+--backgroundOpacity: 0.45;
+
+--rs-small-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-streaming-color: #643da7;
+--rs-offline-color: #636b75;
+--rs-invisible-color: #747f8d;
+
+--HSL-server-icon-size: 39px;
+--HSL-server-spacing: 8px;
+}
