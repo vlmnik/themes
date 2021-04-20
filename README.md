@@ -1,2 +1,2 @@
-# themes
-Hey! My Discord Topics will be here!
+# Themes for DiscordBetter
+Hey! My BetterDiscord Themes will be here!
